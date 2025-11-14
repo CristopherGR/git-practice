@@ -1,0 +1,7 @@
+echo "target/
+
+*.log
+
+.DS_Store
+
+.idea/
