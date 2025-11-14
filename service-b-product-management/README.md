@@ -1,5 +1,4 @@
-# Product Management Service
-
+# Java Microservices - Product Management
 This is the Product Management microservice, which provides RESTful endpoints for managing products.
 
 ## Endpoints
